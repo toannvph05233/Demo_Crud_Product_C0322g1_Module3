@@ -1,0 +1,4 @@
+model/Product.java
+ model.Product
+controller/ProductServlet.java
+ controller.ProductServlet
